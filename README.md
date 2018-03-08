@@ -8,3 +8,5 @@ ZCZC W01 Telah mencoba demo Week01
 ZCZC W02 telah dicoba oleh Izzatul Muttaqin
 
 ZCZC W03 sudah dilakukan bash
+
+ZCZC W04 sudah dicoba
