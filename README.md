@@ -10,3 +10,5 @@ ZCZC W02 telah dicoba oleh Izzatul Muttaqin
 ZCZC W03 sudah dilakukan bash
 
 ZCZC W04 sudah dicoba
+
+ZCZC W05 sudah dicompile
