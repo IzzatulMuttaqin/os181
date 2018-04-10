@@ -12,3 +12,5 @@ ZCZC W03 sudah dilakukan bash
 ZCZC W04 sudah dicoba
 
 ZCZC W05 sudah dicompile
+
+ZCZC W06 sudah di push
